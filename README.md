@@ -1,3 +1,6 @@
 # localhost-wordpress
 
-ik kan op een vage manier mijn mappen niet toevoegen ik meld wel wanneer ik voortgang heb gemaakt en wanneer ik de bestanden wel kan uploaden.
+## live link:
+
+#### ik maak voortgang met het Wp-thema. Tot nu toe heb ik 10 videos gedaan en ga derest nog maken in de komende dagen.
+#### ik maak een commit na elke video die ik afrond
